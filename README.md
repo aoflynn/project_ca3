@@ -1,37 +1,27 @@
-<h3>CA3 Project</h3>
+#Lost  & Found
+####CASE 3 Year Project
 
-<h4>31-10-2014 up to 3-11-2014</h4>	
-*Present projects to staff and other students.
-* 10%
-* Receive and note feedback.
+Our third year project was a geolocation lost and found iOS application. We received a First Class Honours in this project with an overall mark of 71%. This project was worth 15 credits out of our 60 credit year.
 
-<h4>21-11-2014</h4>	
-* Submit a detailed functional specification for marking.
-* This should indicate that the presentation feedback has been taken on board.
+Users are able to post on the application that they have either lost or found an item. This is called a listing. A listing is made up of information like a title, lost or found status, a category, a description, the location of where the item was lost or found, and an image of the item.
 
-<h4>21-11-2014 to 23-2-2015</h4>	
-* Design and develop project.
-* Maintain regular contact with supervisor.
+One of the key features of the application is the ability to drop a pin on a map where the item was lost or found. Once a user places a listing, if they search the map, they will be able to see their listing as a pin annotation on the map, along with all of the other listings. Users can search the map or use the category search to find listings.
 
-<h4>23-2-2015</h4>	
-* Submit project to your supervisor. 
-* 90%
-* The project consists of:
-  * The System (i.e. code etc.) 
-  * The Technical Specification
-  * The User Manual
-  * Supervisor forms.
+The application acts as a medium of contact between people who wish to find an item they have
+lost or for people who wish to return an item that they have found. The listing page supplies an
+email address and an optional number for other users to inquire about that listing. 
 
-<h4>Lost & Found</h4>
 
-Our project idea is a geolocation Lost and Found application for android.
-If it goes well we can do iOS and website.
+##### Tech
 
-* This application will act as a forum to easily post about items you have lost you would like help finding or items you have found that you would like to return to their rightful owner.
-* The application will have require an e-mail address for posting and replying to posts and will have an option to make an account with e-mail address and password.
-* The app will respond to your location and show you the lost or found items in the area you are in. There will also be an option to check a different area that you’re not in and an option to search for items lost or found.
-* Users will be able to post on this app that they have lost an item. The post must have a description of the item, where to return the item/who to contact about it and the option to post a picture of the item. Users will also have the option to post that they have found an item. They can post a picture of it but must have a description of the item * including where and when it was found.
+We used a number of different technologies during this project:
 
-* As an added extra we might add an option for premium users or to buy a premium post to show at the top of all the other normal posts.
+* [Parse](www.parse.com) - Backend as a Service
+* [XCode](https://developer.apple.com/xcode/) - The IDE in which the app was built. XCode provides the tools required to run and build iOS applications. 
+* [Objective-C](https://en.wikipedia.org/wiki/Objective-C) - The programming language in which the application was developed in. 
+* [iOS 8 SDK](https://developer.apple.com/ios/download/) - We used the newest software development kit to create the application. 
 
-* The e-mail option is to moderate the posts and ensure nearly all posts are relevant.
+##### Members
+* [Adam O'Flynn](www.github.com/aoflynn) - [Questions?](mailto:aoflynn9909@gmail.com)
+* [Conor Smyth](www.github.com/smythconor)
+
