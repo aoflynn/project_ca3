@@ -16,7 +16,7 @@ email address and an optional number for other users to inquire about that listi
 
 We used a number of different technologies during this project:
 
-* [Parse](www.parse.com) - Backend as a Service
+* [Parse](https://www.parse.com) - Backend as a Service
 * [XCode](https://developer.apple.com/xcode/) - The IDE in which the app was built. XCode provides the tools required to run and build iOS applications. 
 * [Objective-C](https://en.wikipedia.org/wiki/Objective-C) - The programming language in which the application was developed in. 
 * [iOS 8 SDK](https://developer.apple.com/ios/download/) - We used the newest software development kit to create the application. 
