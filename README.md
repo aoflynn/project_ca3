@@ -22,6 +22,6 @@ We used a number of different technologies during this project:
 * [iOS 8 SDK](https://developer.apple.com/ios/download/) - We used the newest software development kit to create the application. 
 
 ##### Members
-* [Adam O'Flynn](www.github.com/aoflynn) - [Questions?](mailto:aoflynn9909@gmail.com)
-* [Conor Smyth](www.github.com/smythconor)
+* [Adam O'Flynn](https://www.github.com/aoflynn) - [Questions?](mailto:aoflynn9909@gmail.com)
+* [Conor Smyth](https://www.github.com/smythconor)
 
